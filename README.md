@@ -1,1 +1,1 @@
-AulaPraticaCsharpSerie1
+# **Aula pratica serie de atividades 1 - Turma QUA.315.024 - Desenvolvedor** <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img height="32" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png" alt="c#" /></a>
